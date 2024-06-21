@@ -1,0 +1,4 @@
+0 MRI
+1 CT
+2 X-Ray
+3 Non-Medical ...
